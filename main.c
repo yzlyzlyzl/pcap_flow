@@ -666,6 +666,7 @@ static void FlowAlloc(u32 FlowMax)
 
 int main(int argc, char* argv[])
 {
+	/*yzl add test*/
 	int 	FileNameListPos = 0;
 	char 	FileNameList[16][256];
 	int		FileStdin = false;
