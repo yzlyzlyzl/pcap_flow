@@ -564,7 +564,6 @@ static u32 FlowAdd(FlowHash_t* Flow, u32 PktLength, u64 TS)
 }
 
 //---------------------------------------------------------------------------------------------
-
 static void PrintHumanFlows(void)
 {
 	u64 PktMax = 0;
